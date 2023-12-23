@@ -21,8 +21,8 @@ I am just a guy who loves to learn new stuff, create and tinker with objects.<br
 
 Here is a Repository Roadmap:
 <ol>
-  <li>Feeling bored? Try playing the [Tic-Tac-Toe Game]([url](https://github.com/PranavRao25/Tic-Tac-Toe))</li>
-  <li>Need some grammtical corrections? Try using the [Spell Checker tool]([url](https://github.com/PranavRao25/Spell-Checker))</li>
+  <li>Feeling bored? Try playing the <a href="https://github.com/PranavRao25/Tic-Tac-Toe">Tic-Tac-Toe Game</a></li>
+  <li>Need some grammtical corrections? Try using the <a href="https://github.com/PranavRao25/Spell-Checker">Spell Checker Tool</a></li>
 </ol>
 
 More repositories will come in time!<br>
