@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A warm welcome to all who come here to explore my humble GitHub repository.<br>
+I am @PranavRao25, and I shall be your host in your visit.<br>
+I am just a guy who loves to learn new stuff, create and tinker with objects.<br>
+
+Here is a Repository Roadmap:
+<ol>
+  <li>Feeling bored? Try playing the [Tic-Tac-Toe Game](https://github.com/PranavRao25/Tic-Tac-Toe)</li>
+  <li>Need some grammtical corrections? Try using the [Spell Checker tool](https://github.com/PranavRao25/Spell-Checker)</li>
+</ol>
+
+More repositories will come in time!<br>
+Thank you for visiting my humble abode, and hope to see you again!
+
+To reach me : pranavrao2500@gmail.com
