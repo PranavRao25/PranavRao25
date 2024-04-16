@@ -23,6 +23,7 @@ Here is a Repository Roadmap:
 <ol>
   <li>Feeling bored? Try playing the <a href="https://github.com/PranavRao25/Tic-Tac-Toe">Tic-Tac-Toe Game</a></li>
   <li>Need some grammtical corrections? Try using the <a href="https://github.com/PranavRao25/Spell-Checker">Spell Checker Tool</a></li>
+  <li>How about some fun with graphics? Witness the magic of <a href="https://pranavrao25.github.io/Marching-Cubes/">Marching Sqaures Algorithm</a></li>
 </ol>
 
 For an exhaustive details, check out <a href="https://pranavrao25.github.io">my website</a>.<br>
