@@ -26,6 +26,7 @@ Here is a Repository Roadmap:
   <li>Want to explore Marching Squares? Try out the <a href="https://pranavrao25.github.io/Marching-Cubes/">Marching Squares Website</a></li>
 </ol>
 
+You can check out <a href="https://pranavrao25.github.io/">my website</a> too
 More repositories will come in time!<br>
 Thank you for visiting my humble abode, and hope to see you again!
 
