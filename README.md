@@ -24,7 +24,7 @@ Here is a Repository Roadmap:
 <ol>
   <li>Chat with our <a href="https://temporal-chatbot.streamlit.app/">Temporal Chatbot</a></li>
   <li>Want to explore Marching Squares? Try out the <a href="https://pranavrao25.github.io/Marching-Cubes/">Marching Squares Website</a></li>
-  <li>Need some grammtical corrections? Try using the <a href="https://github.com/PranavRao25/Spell-Checker">Spell Checker Tool</a></li>
+  <li>Need some grammtical corrections? Try using the <a href="https://spell-checker.streamlit.app/">Spell Checker Tool</a></li>
   <li>Feeling bored? Try playing the <a href="https://github.com/PranavRao25/Tic-Tac-Toe">Tic-Tac-Toe Game</a></li>
 </ol>
 
