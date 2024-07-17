@@ -33,3 +33,5 @@ More repositories will come in time!<br>
 Thank you for visiting my humble abode, and hope to see you again!
 
 To reach me : pranavrao2500@gmail.com
+
+![](https://komarev.com/ghpvc/?username=PranavRao25)
