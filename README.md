@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A warm welcome to all who come here to explore my humble GitHub repository.<br>
 I am @PranavRao25, and I shall be your host in your visit.<br>
 I am just a guy who loves to learn new stuff, create and tinker with objects.<br>
-My interests are Natural Language Processing and Quantum Computing.<br>
+My interests are Data Science and Quantum Computing.<br>
 
 Here is a Repository Roadmap:
 <ol>
